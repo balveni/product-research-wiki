@@ -43,3 +43,4 @@ markdown_extensions:
 
 nav:
   - 홈: index.md
+  - 에어팟 프로 2: 에어팟-프로-2.md
