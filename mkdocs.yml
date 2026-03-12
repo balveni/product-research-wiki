@@ -1,4 +1,5 @@
 site_name: 상품 구매 가이드
+site_url: https://buysense.github.io/product-research-wiki/
 site_description: AI가 분석한 상품 구매 가이드 모음
 site_author: product-research-bot
 
@@ -29,6 +30,7 @@ theme:
 plugins:
   - search:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
+  - sitemap
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -46,10 +48,10 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 구매 가이드:
-    - 에어팟 프로 2: products/에어팟-프로-2.md
     - 위닉스 타워 엣지 공기청정기 43㎡: products/위닉스-타워-엣지-공기청정기-43.md
+    - 에어팟 프로 2: products/에어팟-프로-2.md
   - 쿠팡 파트너스:
-    - 샤오미 미지아 공기 청정기 4 프로 화이트: coupang/샤오미-미지아-공기-청정기-4-프로-화이트.md
-    - 디어스킨 에어엠보 날개형 생리대: coupang/디어스킨-에어엠보-날개형-생리대.md
-    - 다이슨 허쉬젯 컴팩트 공기청정기: coupang/다이슨-허쉬젯-컴팩트-공기청정기.md
     - 샤오미 미지아 공기청정기 5: coupang/샤오미-미지아-공기청정기-5.md
+    - 샤오미 미지아 공기 청정기 4 프로 화이트: coupang/샤오미-미지아-공기-청정기-4-프로-화이트.md
+    - 다이슨 허쉬젯 컴팩트 공기청정기: coupang/다이슨-허쉬젯-컴팩트-공기청정기.md
+    - 디어스킨 에어엠보 날개형 생리대: coupang/디어스킨-에어엠보-날개형-생리대.md
