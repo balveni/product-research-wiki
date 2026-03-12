@@ -38,11 +38,15 @@ markdown_extensions:
   - pymdownx.superfences
   - admonition
   - tables
+  - attr_list
+  - md_in_html
   - toc:
       permalink: true
 
 nav:
   - 홈: index.md
-  - 에어팟 프로 2: 에어팟-프로-2.md
-  - 위닉스 타워 엣지 공기청정기 43㎡: 위닉스-타워-엣지-공기청정기-43.md
-  - 디어스킨 에어엠보 날개형 생리대: 디어스킨-에어엠보-날개형-생리대.md
+  - 구매 가이드:
+    - 에어팟 프로 2: products/에어팟-프로-2.md
+    - 위닉스 타워 엣지 공기청정기 43㎡: products/위닉스-타워-엣지-공기청정기-43.md
+  - 쿠팡 파트너스:
+    - 디어스킨 에어엠보 날개형 생리대: coupang/디어스킨-에어엠보-날개형-생리대.md
