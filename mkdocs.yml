@@ -47,6 +47,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 잔스포츠 빅스튜던트 백팩 EK0A5BAHN541: products/잔스포츠-빅스튜던트-백팩-ek0a5bahn541.md
     - 잔스포츠 슈퍼브레이크 원 백팩 EK0A5BAGN551: products/잔스포츠-슈퍼브레이크-원-백팩-ek0a5bagn551.md
     - LG전자 퓨리케어 360도 Hit 공기청정기 62㎡: products/lg전자-퓨리케어-360도-hit-공기청정기-62.md
     - 위닉스 타워 엣지 컴팩트 공기청정기 19.8: products/위닉스-타워-엣지-컴팩트-공기청정기-198.md
@@ -60,4 +61,5 @@ nav:
   - 구매 가이드:
     - 백팩 구매 가이드: guides/백팩.md
   - 카테고리별 비교:
+    - 백팩 비교: categories/백팩.md
     - 공기청정기 비교: categories/공기청정기.md
