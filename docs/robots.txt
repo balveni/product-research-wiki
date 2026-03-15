@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://buysense.github.io/product-research-wiki/sitemap.xml
+Sitemap: https://buysense.app/sitemap.xml
