@@ -52,6 +52,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 슈피겐 노트북 맥북 가죽 파우치 슬리브 발렌티누스S: products/슈피겐-노트북-맥북-가죽-파우치-슬리브-발렌티누스s.md
     - 플럭스 업홀더: products/플럭스-업홀더.md
     - 경탁주 2종 세트 2병: products/경탁주-2종-세트-2병.md
     - 구로 기리시마 900ml: products/구로-기리시마-900ml.md
