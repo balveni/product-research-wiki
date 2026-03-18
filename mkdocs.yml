@@ -52,6 +52,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 경탁주 2종 세트 2병: products/경탁주-2종-세트-2병.md
     - 구로 기리시마 900ml: products/구로-기리시마-900ml.md
     - 닌텐도 스위치 OLED 본체 네온 HEG-001 + 포켓몬스터 스칼렛 + 주변기기 7종: products/닌텐도-스위치-oled-본체-네온-heg-001--포켓몬스터-스칼렛--주변기기-7종.md
     - 쿠쿠 인스퓨어 T8770 공기청정기 53.8㎡: products/쿠쿠-인스퓨어-t8770-공기청정기-538.md
