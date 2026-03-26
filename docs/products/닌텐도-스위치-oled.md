@@ -1,6 +1,7 @@
 ---
 title: 닌텐도 스위치 OLED 구매 가이드
 date: 2026-03-25
+description: 닌텐도 스위치 OLED는 휴대 및 거치형 게임기를 고민하는 소비자, 특히 어린이날 선물을 찾는 부모님들에게 매력적인 선택지입니다. 기존 모델 대비 선명해진 7인치 OLED 디스플레이와 향상된 오디오 품질, 그리고 더욱 안정적인 스탠드가 특징으로,...
 ---
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-03-25 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">

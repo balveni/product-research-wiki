@@ -1,6 +1,7 @@
 ---
 title: 휠라키즈 아동용 꼬모 라이트 하트 KD 운동화 구매 가이드
 date: 2026-03-23
+description: 휠라키즈 아동용 꼬모 라이트 하트 KD 운동화는 활동량이 많은 아이들이 어린이집이나 유치원에 등원하거나 야외 활동 시 편안하게 신을 수 있는 휠라키즈운동화입니다. 핑크색 하트 디자인과 걸을 때마다 반짝이는 불빛 기능으로 아이들의 취향을 사로잡아,...
 ---
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-03-23 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">

@@ -1,6 +1,7 @@
 ---
 title: 닌텐도 스위치 OLED 본체 네온 HEG-001 + 포켓몬스터 스칼렛 + 주변기기 7종 구매 가이드
 date: 2026-03-17
+description: 2021년 10월 8일에 출시된 닌텐도 스위치 OLED 모델 HEG-001은 더 커진 7인치 OLED(유기 발광 다이오드) 디스플레이로 몰입감 있는 게임 경험을 제공하는 하이브리드 게임 콘솔입니다. 인기 게임인 포켓몬스터 스칼렛과 7종의 주변기기...
 ---
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-03-17 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">

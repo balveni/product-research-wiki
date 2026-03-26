@@ -1,6 +1,7 @@
 ---
 title: 뉴에라 아동용 MLB 빅 로고 긴팔 티셔츠 구매 가이드
 date: 2026-03-20
+description: 뉴에라 아동용 MLB 빅 로고 긴팔 티셔츠는 활동량이 많은 어린이를 위한 캐주얼 긴팔 티셔츠로, 뉴에라의 상징적인 MLB 빅 로고 디자인이 특징입니다. 봄·가을 단독 착용 및 겨울 이너웨어로 활용도가 높으며, 편안한 착용감과 깔끔한 스타일로 주말...
 ---
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-03-20 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">

@@ -2,6 +2,7 @@
 category: 온풍기
 title: 한경희생활과학 공기청정 가습겸용 BLDC 그래핀 날개없는 온풍기 구매 가이드
 date: 2026-03-16
+description: 한경희생활과학 공기청정 가습겸용 BLDC 그래핀 날개없는 온풍기(HAAN-P17000)는 2025년 12월에 출시된 3-in-1 복합 가전입니다. 따뜻한 온풍 기능과 함께 H13 헤파필터로 공기를 정화하고 가습 기능으로 실내 습도를 조절하여 쾌적...
 ---
 <p style="font-size:0.8em; color:#999; margin: 4px 0 12px;">📅 작성일: 2026-03-16 · 가격 및 스펙 정보는 작성 시점 기준이며 변동될 수 있습니다.</p>
 <div style="background: #fff8f6; border: 1px solid #f0c0b0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
