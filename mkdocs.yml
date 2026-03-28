@@ -52,6 +52,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 피에트로 드레싱 소스: products/피에트로-드레싱-소스.md
     - 봉통 하트 프린트 백팩: products/봉통-하트-프린트-백팩.md
     - 아이스비스킷 책가방 키즈백팩: products/아이스비스킷-책가방-키즈백팩.md
     - 레노버 2025 씽크패드 E14 ILL G7 U5 AI: products/레노버-2025-씽크패드-e14-ill-g7-u5-ai.md
