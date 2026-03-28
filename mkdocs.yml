@@ -52,6 +52,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 아이스비스킷 책가방 키즈백팩: products/아이스비스킷-책가방-키즈백팩.md
     - 레노버 2025 씽크패드 E14 ILL G7 U5 AI: products/레노버-2025-씽크패드-e14-ill-g7-u5-ai.md
     - 레노버 2025 아이디어패드 슬림 5 16IAH10 코어 Ultra7: products/레노버-2025-아이디어패드-슬림-5-16iah10-코어-ultra7.md
     - 레노버 2025 씽크패드 E14 ILL G7 U7 AI: products/레노버-2025-씽크패드-e14-ill-g7-u7-ai.md
