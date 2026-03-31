@@ -35,6 +35,8 @@ extra:
 plugins:
   - search:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
+  - redirects:
+      redirect_maps:
 
 markdown_extensions:
   - pymdownx.highlight:
