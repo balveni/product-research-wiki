@@ -1,5 +1,5 @@
 ---
-image: https://www.catalog-taisho.com/content/dam/selfmedication/jp/ja/biofermin/images/05494/05494_Product_new.png
+image: https://www.catalog-taisho.com/content/dam/selfmedication/jp/ja/biofermin/images/05479/image/05479_350_1.png
 title: 신비오페르민 구매 가이드
 date: 2026-03-31
 description: 신비오페르민은 100년 역사의 일본 대표 정장제로, 비피더스균 등 3종 유산균이 장 건강을 돕습니다. 변비, 설사, 복부 팽만감 완화에 효과적이며, 일본 여행 시 쇼핑 리스트나 해외직구로 많이 찾는 지정의약부외품입니다.
@@ -48,10 +48,10 @@ description: 신비오페르민은 100년 역사의 일본 대표 정장제로, 
 <div style="margin: 18px 0 22px; text-align: center;">
   <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
     <div style="text-align: center;">
-      <img src="https://www.catalog-taisho.com/content/dam/selfmedication/jp/ja/biofermin/images/05494/05494_Product_new.png"
-           alt="신비오페르민 S 플러스 360정 공식 이미지"
+      <img src="https://www.catalog-taisho.com/content/dam/selfmedication/jp/ja/biofermin/images/05479/image/05479_350_1.png"
+           alt="신비오페르민 S 350정 공식 이미지"
            style="max-width: 260px; width: 100%; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.15);" />
-      <div style="font-size: 12px; color: #aaa; margin-top: 8px;">공식사이트 대표상품이미지 (S+ 360정)</div>
+      <div style="font-size: 12px; color: #aaa; margin-top: 8px;">공식사이트 대표상품이미지 (S 350정)</div>
     </div>
     <div style="text-align: center;">
       <img src="//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6e81/e0665081137643a6d0edd979a46abd3c85677c922e2c1ea5e7dc2fc741b6.png"
