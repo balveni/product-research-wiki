@@ -37,6 +37,7 @@ plugins:
       lang: ja  # 한국어와 가장 유사한 CJK 지원
   - redirects:
       redirect_maps:
+        'products/대마도-노바호-승선권--토요코인-숙박.md': 'products/starline-novaho-toyokoin-tsushima-package.md'
         'products/카멜리아호-부산-후쿠오카-배편-승선권.md': 'products/camellialine-busan-fukuoka-ferry-ticket.md'
         'products/마티에-프리미에르-앙센-스와브-오드퍼퓸.md': 'products/matiere-premiere-encens-suave-edp.md'
         'products/샤넬-알뤼르-옴므-스포츠-오-드-뚜왈렛.md': 'products/chanel-allure-homme-sport-edt.md'
@@ -63,6 +64,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 상품 리뷰:
+    - 대마도 노바호 승선권 + 토요코인 숙박: products/starline-novaho-toyokoin-tsushima-package.md
     - 카멜리아호 부산 후쿠오카 배편 승선권: products/camellialine-busan-fukuoka-ferry-ticket.md
     - 마티에 프리미에르 앙센 스와브 오드퍼퓸: products/matiere-premiere-encens-suave-edp.md
     - 샤넬 알뤼르 옴므 스포츠 오 드 뚜왈렛: products/chanel-allure-homme-sport-edt.md
